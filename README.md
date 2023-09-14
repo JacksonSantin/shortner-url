@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JacksonSantin/shortner-url?color=%238257E5">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JacksonSantin/shortner-url?color=%238257E5">
-
   <img alt="Feito por Jackson Dhanyel Santin" src="https://img.shields.io/badge/feito%20por-Jackson-%238257E5">
 </p>
 
