@@ -1,19 +1,13 @@
 <template>
   <v-app>
     <v-main>
-      <router-view />
+      <shortner-url />
     </v-main>
   </v-app>
 </template>
 
-<script>
-export default {
-  name: "App",
-
-  data: () => ({
-    //
-  }),
-};
+<script setup>
+import ShortnerUrl from "./module/view/shortner.vue";
 </script>
 
 <style>
